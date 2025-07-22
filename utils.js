@@ -1,4 +1,4 @@
-// 파일: utils.js (함수명은 유지, 내부만 listCard로 변경된 최종본)
+// 파일: utils.js (함수명은 유지, 내부만 listCard로 변경된 최종본) 
 
 /**
  * AI의 답변(mainText)과 확장 질문(questions)을 받아
